@@ -1,0 +1,24 @@
+{
+  "name": "loopback-getting-started-1",
+  "homepage": "https://github.com/c0demark/loopback-getting-started-1",
+  "authors": [
+    "c0demark <kumarvijay336@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.2",
+    "angular-resource": "^1.6.2",
+    "angular-ui-router": "^0.4.2"
+  }
+}
