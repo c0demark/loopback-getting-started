@@ -6,7 +6,7 @@
   "mysqlDs": {
     "host": "localhost",
     "port": 3306,
-    "database": "loopback-getting-started-1",
+    "database": "loopback-getting-started",
     "username": "root",
     "password": "root",
     "name": "mysqlDs",
@@ -15,8 +15,8 @@
   "mongoDs": {
     "host": "localhost",
     "port": 27017,
-    "url": "mongodb://localhost:27017/loopback-getting-started-1",
-    "database": "loopback-getting-started-1",
+    "url": "mongodb://localhost:27017/loopback-getting-started",
+    "database": "loopback-getting-started",
     "password": "root",
     "name": "mongoDs",
     "user": "root",
